@@ -1,0 +1,28 @@
+2N440;L1;NPN
+BC550C;L1;NPN;BC550C/D. BC549C, BC550C. Low Noise Transistors. NPN Silicon
+BC317;L1;PNP; BC317 Transistor· Type: PNP · Collector-Emitter Voltage, max: -45 V · Collector-Base Voltage, max: -50 V
+IRF830;L1;Transistortyp: 1 N-Channel
+FBC317EBC;L1;NO DATA
+BC309B;L1;Amplifier Transistors(PNP)
+BCJ08C;L1;NO DATA
+BC237A;L1;BC237A onsemi / Fairchild Bipolar Transistors - BJT NPN 45V 100mA HFE/22
+BTS555;L1;NO DATA, POWER SWITCH DRIVER
+BF469;L1;Characteristics of BF469 Transistor · Type: PNP
+MBC309C CBE;L1;NO DATA
+BC517;L2;BC517 TO-92 NPN 30V 500mA
+BC546;L2;BC546/D. Amplifier Transistors. NPN Silicon
+2N4871;L2;Köp 2N4871 — Multicomp Pro — Unijunction (UJT) Transistor
+JE2955 60V;L2;TRANSISTOR PNP 60V 10A
+BPXJ4C;L2
+BC327;L2;pnp
+BC546;L2;NPN 
+BC557B;L2;BC557B - Bipolär transistor 100mA PNP
+BS170;L2;Onsemi — N CHANNEL MOSFET, 60V, 500mA
+BC537;L2;Description, NPN SILICON AF MEDIUM POWER TRANSISTORS
+BC556B;L2; BC558B. Amplifier Transistors. PNP Silicon.
+BD140;L2;BD140-16 TO-126 PNP 80V 1.5A
+BC635;L2;npn High Current Transistor.
+BC636 104PNP;L2
+BC547B;L2;BC547B TO-92 NPN 45V 100mA
+BC549C NPN .5W;L2;LF-transistor, NPN, 30V, TO-92
+BDX33C;L2;BDX33C - Darlington-transistor, NPN, 100V, 10A, TO-220
