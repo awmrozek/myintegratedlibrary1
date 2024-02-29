@@ -1,0 +1,65 @@
+Added Component: Designator=P21(2X8_SMD_PH_2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "2356242"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2x8 Pin Header, 2.54mm, SMD"; VariantName = "[No Variations]"
+Added Component: Designator=P32(2X8_SMD_PH_2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "2356242"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2x8 Pin Header, 2.54mm, SMD"; VariantName = "[No Variations]"
+Added Component: Designator=P33(2X8_SMD_PH_2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "2356242"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2x8 Pin Header, 2.54mm, SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Bus2Pin1 Pin=P21-1
+Added Pin To Net: NetName=Bus2Pin2 Pin=P21-2
+Added Pin To Net: NetName=Bus2Pin3 Pin=P21-3
+Added Pin To Net: NetName=Bus2Pin4 Pin=P21-4
+Added Pin To Net: NetName=Bus2Pin5 Pin=P21-5
+Added Pin To Net: NetName=Bus2Pin6 Pin=P21-6
+Added Pin To Net: NetName=Bus2Pin7 Pin=P21-7
+Added Pin To Net: NetName=Bus2Pin8 Pin=P21-8
+Added Pin To Net: NetName=Bus2Pin8 Pin=P21-9
+Added Pin To Net: NetName=Bus2Pin7 Pin=P21-10
+Added Pin To Net: NetName=Bus2Pin6 Pin=P21-11
+Added Pin To Net: NetName=Bus2Pin5 Pin=P21-12
+Added Pin To Net: NetName=Bus2Pin4 Pin=P21-13
+Added Pin To Net: NetName=Bus2Pin3 Pin=P21-14
+Added Pin To Net: NetName=Bus2Pin2 Pin=P21-15
+Added Pin To Net: NetName=Bus2Pin1 Pin=P21-16
+Added Pin To Net: NetName=Bus3Pin1 Pin=P32-1
+Added Pin To Net: NetName=Bus3Pin2 Pin=P32-2
+Added Pin To Net: NetName=Bus3Pin3 Pin=P32-3
+Added Pin To Net: NetName=Bus3Pin4 Pin=P32-4
+Added Pin To Net: NetName=Bus3Pin5 Pin=P32-5
+Added Pin To Net: NetName=Bus3Pin6 Pin=P32-6
+Added Pin To Net: NetName=Bus3Pin7 Pin=P32-7
+Added Pin To Net: NetName=Bus3Pin8 Pin=P32-8
+Added Pin To Net: NetName=Bus3Pin8 Pin=P32-9
+Added Pin To Net: NetName=Bus3Pin7 Pin=P32-10
+Added Pin To Net: NetName=Bus3Pin6 Pin=P32-11
+Added Pin To Net: NetName=Bus3Pin5 Pin=P32-12
+Added Pin To Net: NetName=Bus3Pin4 Pin=P32-13
+Added Pin To Net: NetName=Bus3Pin3 Pin=P32-14
+Added Pin To Net: NetName=Bus3Pin2 Pin=P32-15
+Added Pin To Net: NetName=Bus3Pin1 Pin=P32-16
+Added Pin To Net: NetName=Bus3Pin1 Pin=P33-1
+Added Pin To Net: NetName=Bus3Pin2 Pin=P33-2
+Added Pin To Net: NetName=Bus3Pin3 Pin=P33-3
+Added Pin To Net: NetName=Bus3Pin4 Pin=P33-4
+Added Pin To Net: NetName=Bus3Pin5 Pin=P33-5
+Added Pin To Net: NetName=Bus3Pin6 Pin=P33-6
+Added Pin To Net: NetName=Bus3Pin7 Pin=P33-7
+Added Pin To Net: NetName=Bus3Pin8 Pin=P33-8
+Added Pin To Net: NetName=Bus3Pin8 Pin=P33-9
+Added Pin To Net: NetName=Bus3Pin7 Pin=P33-10
+Added Pin To Net: NetName=Bus3Pin6 Pin=P33-11
+Added Pin To Net: NetName=Bus3Pin5 Pin=P33-12
+Added Pin To Net: NetName=Bus3Pin4 Pin=P33-13
+Added Pin To Net: NetName=Bus3Pin3 Pin=P33-14
+Added Pin To Net: NetName=Bus3Pin2 Pin=P33-15
+Added Pin To Net: NetName=Bus3Pin1 Pin=P33-16
+Added Member To Class: ClassName=MyBus Member=Component P21 2x8 Pin Header  SMD
+Added Member To Class: ClassName=MyBus Member=Component P32 2x8 Pin Header  SMD
+Added Member To Class: ClassName=MyBus Member=Component P33 2x8 Pin Header  SMD
+Added Member To Class: ClassName=MyBus Member=Component P35 2x8 Pin Header  SMD
+Added Room: Name=MyBus
