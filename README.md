@@ -15,6 +15,6 @@ But - if you want to build a professionally looking printed circuit board (like 
 
 Like this:
 
-![image](doc/etfpcb.png)
+![image](doc/etfpcb.jpeg)
 
 Here, we try to create a library of components available for students and everyone who is interested in hardware making. With this library you will be able to create some simple and even slightly more complex designs.
