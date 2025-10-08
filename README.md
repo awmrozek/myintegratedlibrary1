@@ -13,4 +13,8 @@ There are thousands of components to choose from at ETF - ElektroTeknska forenin
 
 But - if you want to build a professionally looking printed circuit board (like the one in sample pictures), you want to make a design. You can do it with specialized software like KiCad or Altium.
 
+Like this:
+
+![image](doc/etfpcb.png)
+
 Here, we try to create a library of components available for students and everyone who is interested in hardware making. With this library you will be able to create some simple and even slightly more complex designs.
