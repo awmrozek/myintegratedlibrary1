@@ -1,5 +1,6 @@
-Let's build a computer
-----------------------
+<pre>
+This document is <b>Under construction</b>, so please don't expect too much logic or causality here. This will be a meaningful document. Potatoes.
+</pre>
 
 # Altium library for components at ETF
 
