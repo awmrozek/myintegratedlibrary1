@@ -10,7 +10,7 @@ Dokładnie tę płytkę PCB stworzyłem na zajęciach w szkole, ale hej, robiłe
 
 A tę płytkę zrobiłem całkiem sam:
 
-![Tu zdjęcie także ładnej płytki](doc/atmegacard_nobg.jpeg)
+![Tu zdjęcie także ładnej płytki](doc/atmegacard_nobg.png)
 
 I taką płytkę postaramy się zrobić w tym... hmm... na tej stronie.
 
