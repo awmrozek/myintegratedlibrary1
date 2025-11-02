@@ -2,7 +2,21 @@
 This document is <b>Under construction</b>, so please don't expect too much logic or causality here. This will be a meaningful document. Potatoes.
 </pre>
 
-# Altium library for components at ETF
+# Making a PCB
+
+***This text was automatically translated first into Polish, then English, then back to Polish... See also: Silent call on Google Translate. And the photos are mine, only some computer removed the background***
+
+Here we're trying to create a component library accessible to students and anyone interested in hardware design. With this library, you'll be able to create both simple and slightly more complex projects. If you don't know what a PCB is for, read on.
+
+I created this exact PCB in class at school, but hey, I've made boards like this before. It's the most beautiful board I've ever made.
+
+![Here's a picture of the most beautiful board](doc/etfpcb.jpeg)
+
+And I made this board all by myself:
+
+![Here's a picture of an also beautiful board](doc/atmegacard_nobg.png)
+
+And we'll try to make such a board in this... hmm... page.
 
 Have you ever wondered how electronics work? Did you just go to LTH and don't know what to do with all the endless theory? Don't worry, I've been in this situation!
 
@@ -15,14 +29,6 @@ Flip-Flops and logical gates, D-transform? You can understand it by building the
 There are thousands of components to choose from at ETF - ElektroTeknska foreningen vid LTH. It is a fantastic source of fun for young aspiring hardware hackers and makers.
 
 But - if you want to build a professionally looking printed circuit board (like the one in sample pictures), you want to make a design. You can do it with specialized software like KiCad or Altium.
-
-PCB stands for Printed Circuit Board. This is the board you can see in the picture. Like this:
-
-![image](doc/etfpcb.jpeg)
-
-Exactly this PCB was created as I was attending to a course in my school, but hey, I've done these boards independently before. This is the most beautiful board I created so far.
-
-Here, we try to create a library of components available for students and everyone who is interested in hardware making. With this library you will be able to create some simple and even slightly more complex designs.
 
 # Starting point: Create the PCB
 
