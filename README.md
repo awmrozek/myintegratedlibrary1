@@ -1,10 +1,6 @@
-<pre>
-This document is <b>Under construction</b>, so please don't expect too much logic or causality here. This will be a meaningful document. Potatoes.
-</pre>
-
 # Making a PCB
 
-***This text was automatically translated first into Polish, then English, then back to Polish... See also: Silent call on Google Translate. And the photos are mine, only some computer removed the background***
+***This document is under construction. This text was automatically translated first into Polish, then English, then back to Polish... See also: Silent call on Google Translate. And the photos are mine, only some computer removed the background***
 
 Here we're trying to create a component library accessible to students and anyone interested in hardware design. With this library, you'll be able to create both simple and slightly more complex projects. If you don't know what a PCB is for, read on.
 
