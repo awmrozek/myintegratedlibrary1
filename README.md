@@ -1,5 +1,37 @@
 # Making a PCB
 
+Welcome to the Altium Integrated Library.
+
+This library is meant to be used with Altium Designer. If you like to hack hardware at home, you may find some interesting components here.
+
+The library contains the following components so far:
+
+ * 0805 Resistor SMD
+ * 7805 Voltage Regulator
+ * Original power contact
+ * Atmega32
+ * Atmega88
+ * Atmega328
+ * Atmega644th
+ * Atmega1284
+ * Atmega AT89C5131PLCC (?)
+ * ATX Power plug
+ * Debug Wire (ISP)
+ * FTDI
+ * JTAG
+ * LEDs
+ * NE555
+ * Custom Debug Wire
+ * Female pinout 10x1
+ * Resistor through holes
+ * Capacitor through holes
+ * TL082CP
+ * USB-B
+ * USB-A
+ * USB-A SMT
+ * Crystal oscillator
+ 
+
 ***This document is under construction. This text was automatically translated first into Polish, then English, then back to Polish... See also: Silent call on Google Translate. And the photos are mine, only some computer removed the background***
 
 Here we're trying to create a component library accessible to students and anyone interested in hardware design. With this library, you'll be able to create both simple and slightly more complex projects. If you don't know what a PCB is for, read on.
