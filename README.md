@@ -2,6 +2,8 @@
 
 Welcome to the Altium Integrated Library.
 
+![Here's a picture of a nice pcb](doc/atmegacard_nobg.png)
+
 This library is meant to be used with Altium Designer. If you like to hack hardware at home, you may find some interesting components here.
 
 The library contains the following components so far:
@@ -31,7 +33,7 @@ The library contains the following components so far:
  * USB-A SMT
  * Crystal oscillator
  
-
+<!--
 ***This document is under construction. This text was automatically translated first into Polish, then English, then back to Polish... See also: Silent call on Google Translate. And the photos are mine, only some computer removed the background***
 
 Here we're trying to create a component library accessible to students and anyone interested in hardware design. With this library, you'll be able to create both simple and slightly more complex projects. If you don't know what a PCB is for, read on.
@@ -42,7 +44,7 @@ I created this exact PCB in class at school, but hey, I've made boards like this
 
 And I made this board all by myself:
 
-![Here's a picture of an also beautiful board](doc/atmegacard_nobg.png)
+
 
 And we'll try to make such a board in this... hmm... page.
 
@@ -106,3 +108,4 @@ We start by testing if our PCB talks to the computer. We can do this in Atmel St
 
 
 
+-->
