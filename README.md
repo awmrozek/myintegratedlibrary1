@@ -33,6 +33,8 @@ The library contains the following components so far:
  * USB-A SMT
  * Crystal oscillator
  
+ This library is available on... Github! (I know that you should not publish binary files on GitHub, but this solution is apparently enough for me) at [https://github.com/awmrozek/myintegratedlibrary1](https://github.com/awmrozek/myintegratedlibrary1)
+ 
 <!--
 ***This document is under construction. This text was automatically translated first into Polish, then English, then back to Polish... See also: Silent call on Google Translate. And the photos are mine, only some computer removed the background***
 
